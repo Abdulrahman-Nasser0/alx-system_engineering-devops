@@ -1,2 +1,2 @@
 #!/bin/bash
-sdfa
+mv [[:upper:]]* /tmp/u
